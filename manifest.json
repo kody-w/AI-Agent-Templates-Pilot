@@ -1,0 +1,1105 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-05-20T15:38:28.017040Z",
+  "repository": "kody-w/AI-Agent-Templates-Pilot",
+  "branch": "main",
+  "agents": [
+    {
+      "id": "basic_agent",
+      "name": "Basic Agent",
+      "filename": "basic_agent.py",
+      "path": "agents/basic_agent.py",
+      "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agents/basic_agent.py",
+      "size": 152,
+      "size_formatted": "152.0B",
+      "type": "singular",
+      "icon": "\ud83e\udd16",
+      "description": "AI agent for task automation and workflow optimization",
+      "features": [
+        "AI-powered automation",
+        "Easy integration",
+        "Scalable architecture",
+        "Production ready"
+      ]
+    }
+  ],
+  "stacks": [
+    {
+      "id": "predictive_asset_maintenance_intelligence_stack",
+      "name": "Predictive Asset Maintenance Intelligence Stack",
+      "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack",
+      "industry": "Energy & Utilities",
+      "agents": [
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_lifecycle_capex_planner_agent",
+          "name": "Lifecycle Capex Planner Agent",
+          "filename": "lifecycle_capex_planner_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/lifecycle_capex_planner_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/lifecycle_capex_planner_agent.py",
+          "size": 6441,
+          "size_formatted": "6.3KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_asset_sensor_aggregator_agent",
+          "name": "Asset Sensor Aggregator Agent",
+          "filename": "asset_sensor_aggregator_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_sensor_aggregator_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_sensor_aggregator_agent.py",
+          "size": 4960,
+          "size_formatted": "4.8KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_asset_health_scorer_agent",
+          "name": "Asset Health Scorer Agent",
+          "filename": "asset_health_scorer_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_health_scorer_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_health_scorer_agent.py",
+          "size": 6526,
+          "size_formatted": "6.4KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_failure_probability_ranker_agent",
+          "name": "Failure Probability Ranker Agent",
+          "filename": "failure_probability_ranker_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/failure_probability_ranker_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/failure_probability_ranker_agent.py",
+          "size": 4982,
+          "size_formatted": "4.9KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_maintenance_work_order_agent",
+          "name": "Maintenance Work Order Agent",
+          "filename": "maintenance_work_order_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/maintenance_work_order_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/maintenance_work_order_agent.py",
+          "size": 6573,
+          "size_formatted": "6.4KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_field_execution_capture_agent",
+          "name": "Field Execution Capture Agent",
+          "filename": "field_execution_capture_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/field_execution_capture_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/field_execution_capture_agent.py",
+          "size": 5435,
+          "size_formatted": "5.3KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_parts_planner_agent",
+          "name": "Parts Planner Agent",
+          "filename": "parts_planner_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/parts_planner_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/parts_planner_agent.py",
+          "size": 6851,
+          "size_formatted": "6.7KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "predictive_asset_maintenance_intelligence_stack_asset_register_writeback_agent",
+          "name": "Asset Register Writeback Agent",
+          "filename": "asset_register_writeback_agent.py",
+          "path": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_register_writeback_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/agents/asset_register_writeback_agent.py",
+          "size": 5280,
+          "size_formatted": "5.2KB",
+          "type": "stack",
+          "stack_name": "Predictive Asset Maintenance Intelligence Stack",
+          "stack_path": "energy_stacks/predictive_asset_maintenance_intelligence_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        }
+      ],
+      "metadata": {
+        "id": "predictive_asset_maintenance_intelligence_stack",
+        "name": "Predictive Asset Maintenance Intelligence Agent Stack",
+        "version": "1.0.0.0",
+        "description": "Extends the operational life of critical grid infrastructure and reduces unplanned outages by using AI to continuously monitor asset health and predict failures before they occur \u2014 replacing reactive maintenance with intelligent, condition-based interventions across transmission and distribution networks.",
+        "category": "energy_utilities",
+        "industry_label": "Energy Utilities",
+        "complexity": "intermediate",
+        "features": [
+          "Asset Sensor Data Aggregation (transformers, switchgear, cables, OH lines)",
+          "Anomaly Detection & Health Scoring with remaining-useful-life estimate",
+          "Failure Probability Ranking across 30/90/180-day horizons",
+          "Maintenance Work Order Generation in Field Service for above-threshold assets",
+          "Resources & Parts Pre-Planning with long-lead procurement triggers",
+          "Maintenance Execution & Quality Capture in Power Apps mobile",
+          "Asset Register Update \u2014 write-back to AMS + ERP fixed-asset register",
+          "Asset Lifecycle & Replacement Planning capex pipeline view"
+        ],
+        "benefits": [
+          "Reduced unplanned failures across transmission and distribution infrastructure",
+          "Longer average asset operational life through proactive intervention",
+          "Lower total maintenance cost through condition-based scheduling",
+          "Lower capital replacement expenditure through better lifecycle management"
+        ],
+        "starters": [
+          "Show me the highest-risk grid assets for the next 90 days",
+          "Run the predictive maintenance pipeline for substation SUB-44",
+          "Generate work orders for any asset above a 30% 90-day failure probability",
+          "Give me the fleet-level replacement capex pipeline"
+        ],
+        "technicalRequirements": {
+          "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+          ],
+          "dependencies": [
+            "Python 3.11+",
+            "requests",
+            "json"
+          ],
+          "integrations": [
+            "Azure IoT Hub",
+            "Azure AI / ML",
+            "Copilot Studio",
+            "Field Service Platform",
+            "Power Apps",
+            "Power BI",
+            "Power Automate",
+            "ERP / Procurement",
+            "Asset Management System"
+          ]
+        },
+        "components": [
+          {
+            "name": "predictive_asset_maintenance_intelligence_agent.py",
+            "description": "Extends the operational life of critical grid infrastructure and reduces unplanned outages by using AI to continuously monitor asset health and predict failures before they occur \u2014 replacing reactive maintenance with intelligent, condition-based interventions across transmission and distribution networks.",
+            "role": "Primary processing engine (Azure Function / rapp_ai-style)"
+          }
+        ],
+        "deliverables": {
+          "readme": "README.md",
+          "solution_zip": "PredictiveAssetMaintenanceIntelligence_v1.0.0.0.zip",
+          "setup_guide_pdf": "Predictive Asset Maintenance Intelligence Agent - Setup Guide.pdf",
+          "overview_deck_pptx": "Predictive Asset Maintenance Intelligence Agent - Overview Deck.pptx",
+          "eval_test_plan_pdf": "Predictive Asset Maintenance Intelligence Agent - Evaluation Test Plan.pdf",
+          "eval_test_set_csv": "Predictive Asset Maintenance Intelligence Agent - Evaluation Test Set.csv",
+          "icon_png": "Predictive Asset Maintenance Intelligence Icon.png",
+          "agent_py": "agents/predictive_asset_maintenance_intelligence_agent.py",
+          "architecture_copilot_studio": "architecture/copilot_studio.mmd",
+          "architecture_azure_function": "architecture/azure_function.mmd"
+        },
+        "demo": {
+          "available": true,
+          "url": "agent_stacks/energy_stacks/predictive_asset_maintenance_intelligence_stack/demos/predictive_asset_maintenance_intelligence_demo.html"
+        }
+      }
+    },
+    {
+      "id": "procurement_and_supplier_collaboration_portal_stack",
+      "name": "Procurement And Supplier Collaboration Portal Stack",
+      "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+      "industry": "Energy & Utilities",
+      "agents": [
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_delivery_tracking_agent",
+          "name": "Delivery Tracking Agent",
+          "filename": "delivery_tracking_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/delivery_tracking_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/delivery_tracking_agent.py",
+          "size": 2668,
+          "size_formatted": "2.6KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_rfq_builder_agent",
+          "name": "Rfq Builder Agent",
+          "filename": "rfq_builder_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/rfq_builder_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/rfq_builder_agent.py",
+          "size": 3837,
+          "size_formatted": "3.7KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_demand_signal_requisition_agent",
+          "name": "Demand Signal Requisition Agent",
+          "filename": "demand_signal_requisition_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/demand_signal_requisition_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/demand_signal_requisition_agent.py",
+          "size": 3904,
+          "size_formatted": "3.8KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_bid_evaluation_agent",
+          "name": "Bid Evaluation Agent",
+          "filename": "bid_evaluation_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/bid_evaluation_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/bid_evaluation_agent.py",
+          "size": 4396,
+          "size_formatted": "4.3KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_supplier_bid_intake_agent",
+          "name": "Supplier Bid Intake Agent",
+          "filename": "supplier_bid_intake_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/supplier_bid_intake_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/supplier_bid_intake_agent.py",
+          "size": 3672,
+          "size_formatted": "3.6KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_po_approval_issuance_agent",
+          "name": "Po Approval Issuance Agent",
+          "filename": "po_approval_issuance_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/po_approval_issuance_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/po_approval_issuance_agent.py",
+          "size": 3286,
+          "size_formatted": "3.2KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_procurement_strategy_agent",
+          "name": "Procurement Strategy Agent",
+          "filename": "procurement_strategy_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/procurement_strategy_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/procurement_strategy_agent.py",
+          "size": 3807,
+          "size_formatted": "3.7KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "procurement_and_supplier_collaboration_portal_stack_three_way_match_agent",
+          "name": "Three Way Match Agent",
+          "filename": "three_way_match_agent.py",
+          "path": "agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/three_way_match_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/procurement_and_supplier_collaboration_portal_stack/agents/three_way_match_agent.py",
+          "size": 3689,
+          "size_formatted": "3.6KB",
+          "type": "stack",
+          "stack_name": "Procurement And Supplier Collaboration Portal Stack",
+          "stack_path": "energy_stacks/procurement_and_supplier_collaboration_portal_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        }
+      ],
+      "metadata": {
+        "id": "procurement_and_supplier_collaboration_portal_stack",
+        "name": "Procurement and Supplier Collaboration Portal Agent Stack",
+        "version": "1.0.0.0",
+        "description": "Accelerates procurement cycles and improves supplier performance via AI-assisted bid evaluation, automated approval workflows, and a digital supplier collaboration portal -- covering demand signal through three-way invoice match.",
+        "category": "energy_utilities",
+        "industry_label": "Energy Utilities",
+        "complexity": "intermediate",
+        "features": [
+          "Demand signal + requisition creation from maintenance / capital plans",
+          "Procurement strategy determination (direct award / mini-comp / open tender)",
+          "RFQ preparation with eligible-supplier shortlist",
+          "Supplier portal bid submission with Copilot-assisted Q&A",
+          "AI-assisted bid evaluation across price, lead time, quality, sustainability",
+          "PO approval + issuance with automated supplier acknowledgement",
+          "ASN + delivery tracking with deviation alerting",
+          "Three-way match: PO / Goods Receipt / Invoice with payment release"
+        ],
+        "benefits": [
+          "Faster end-to-end procurement cycle for routine and framework orders",
+          "Higher on-time supplier delivery rate for critical network materials",
+          "Lower average procurement cost through AI-assisted bid evaluation",
+          "Less manual supplier correspondence through automated portal workflows"
+        ],
+        "starters": [
+          "Recommend a procurement route for this 2 MUSD framework order",
+          "Build an RFQ for medium-voltage cable replenishment",
+          "Score the bids submitted by these suppliers",
+          "Show me suppliers tracking behind their committed delivery schedule"
+        ],
+        "technicalRequirements": {
+          "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+          ],
+          "dependencies": [
+            "Python 3.11+"
+          ],
+          "integrations": [
+            "ERP / MRP System",
+            "Power Automate",
+            "Copilot Studio",
+            "Power Apps",
+            "ERP / Procurement",
+            "Azure AI",
+            "ERP / Finance Module"
+          ]
+        },
+        "components": [
+          {
+            "name": "demand_signal_requisition_agent.py",
+            "description": "Pulls demand from maintenance + capital plans.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "procurement_strategy_agent.py",
+            "description": "Direct award / mini-comp / open tender decision.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "rfq_builder_agent.py",
+            "description": "Builds RFQ + shortlists eligible suppliers.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "supplier_bid_intake_agent.py",
+            "description": "Receives bids + clarification Q&A.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "bid_evaluation_agent.py",
+            "description": "Scores bids across weighted criteria.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "po_approval_issuance_agent.py",
+            "description": "Drafts PO + routes for approval (pending_review).",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "delivery_tracking_agent.py",
+            "description": "Tracks ASN + flags deviation vs commitment.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "three_way_match_agent.py",
+            "description": "PO <-> GR <-> Invoice reconciliation.",
+            "role": "Focused agent in the 8-agent stack"
+          }
+        ],
+        "useCases": [
+          "Recommend a procurement route for this 2 MUSD framework order",
+          "Build an RFQ for medium-voltage cable replenishment",
+          "Score the bids submitted by these suppliers",
+          "Show me suppliers tracking behind their committed delivery schedule"
+        ]
+      }
+    },
+    {
+      "id": "field_crew_safety_and_work_permit_management_stack",
+      "name": "Field Crew Safety And Work Permit Management Stack",
+      "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack",
+      "industry": "Energy & Utilities",
+      "agents": [
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_permit_clearance_agent",
+          "name": "Permit Clearance Agent",
+          "filename": "permit_clearance_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_clearance_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_clearance_agent.py",
+          "size": 3426,
+          "size_formatted": "3.3KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_risk_assessment_agent",
+          "name": "Risk Assessment Agent",
+          "filename": "risk_assessment_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/risk_assessment_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/risk_assessment_agent.py",
+          "size": 5597,
+          "size_formatted": "5.5KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_live_isolation_confirmation_agent",
+          "name": "Live Isolation Confirmation Agent",
+          "filename": "live_isolation_confirmation_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/live_isolation_confirmation_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/live_isolation_confirmation_agent.py",
+          "size": 3634,
+          "size_formatted": "3.5KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_permit_authorisation_workflow_agent",
+          "name": "Permit Authorisation Workflow Agent",
+          "filename": "permit_authorisation_workflow_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_authorisation_workflow_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_authorisation_workflow_agent.py",
+          "size": 4176,
+          "size_formatted": "4.1KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_isolation_plan_validator_agent",
+          "name": "Isolation Plan Validator Agent",
+          "filename": "isolation_plan_validator_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/isolation_plan_validator_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/isolation_plan_validator_agent.py",
+          "size": 3904,
+          "size_formatted": "3.8KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_permit_request_capture_agent",
+          "name": "Permit Request Capture Agent",
+          "filename": "permit_request_capture_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_request_capture_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/permit_request_capture_agent.py",
+          "size": 4306,
+          "size_formatted": "4.2KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_safety_analytics_agent",
+          "name": "Safety Analytics Agent",
+          "filename": "safety_analytics_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/safety_analytics_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/safety_analytics_agent.py",
+          "size": 3016,
+          "size_formatted": "2.9KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "field_crew_safety_and_work_permit_management_stack_crew_acceptance_agent",
+          "name": "Crew Acceptance Agent",
+          "filename": "crew_acceptance_agent.py",
+          "path": "agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/crew_acceptance_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/energy_stacks/field_crew_safety_and_work_permit_management_stack/agents/crew_acceptance_agent.py",
+          "size": 3363,
+          "size_formatted": "3.3KB",
+          "type": "stack",
+          "stack_name": "Field Crew Safety And Work Permit Management Stack",
+          "stack_path": "energy_stacks/field_crew_safety_and_work_permit_management_stack",
+          "industry": "Energy & Utilities",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        }
+      ],
+      "metadata": {
+        "id": "field_crew_safety_and_work_permit_management_stack",
+        "name": "Field Crew Safety and Work Permit Management Agent Stack",
+        "version": "1.0.0.0",
+        "description": "Digitises the end-to-end permit-to-work process to reduce unsafe working conditions, ensure regulatory compliance, and provide real-time crew safety visibility across the field estate.",
+        "category": "energy_utilities",
+        "industry_label": "Energy Utilities",
+        "complexity": "intermediate",
+        "features": [
+          "Permit-to-work request capture from a mobile app",
+          "Risk Assessment & Method Statement (RAMS) drafted with Copilot Studio",
+          "Safety document validation against the asset isolation plan",
+          "Staged permit authorisation workflow with digital sign-off",
+          "Live isolation confirmation from the Distribution Management System",
+          "On-site safety brief and crew acceptance capture",
+          "Work completion + permit clearance with personnel and tools check",
+          "Permit-cycle audit trail and safety analytics"
+        ],
+        "benefits": [
+          "Faster permit issue, authorisation and closure vs paper-based process",
+          "Real-time visibility of live work activities across the field estate",
+          "Reduced permit-related safety risk through automated pre-work checks",
+          "Full digital audit trail for every permit"
+        ],
+        "starters": [
+          "Raise a permit-to-work request for substation SUB-12 transformer overhaul",
+          "Validate this risk assessment against the asset isolation plan",
+          "Show me all live permits across the field estate right now",
+          "Generate the monthly permit-cycle compliance report"
+        ],
+        "technicalRequirements": {
+          "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+          ],
+          "dependencies": [
+            "Python 3.11+"
+          ],
+          "integrations": [
+            "Power Apps",
+            "Field Service Platform",
+            "Copilot Studio",
+            "Azure AI",
+            "Distribution Management System",
+            "Power Automate",
+            "SharePoint",
+            "Power BI"
+          ]
+        },
+        "components": [
+          {
+            "name": "permit_request_capture_agent.py",
+            "description": "Captures permit-to-work request from a mobile form.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "risk_assessment_agent.py",
+            "description": "Drafts a Risk Assessment + Method Statement (RAMS) tailored to asset class and work.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "isolation_plan_validator_agent.py",
+            "description": "Validates the RAMS against the published asset isolation plan.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "permit_authorisation_workflow_agent.py",
+            "description": "Routes the permit through PIC -> AP -> Manager digital sign-off.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "live_isolation_confirmation_agent.py",
+            "description": "Confirms live breaker / disconnector state from the DMS.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "crew_acceptance_agent.py",
+            "description": "Captures on-site safety brief and per-crew acceptance signatures.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "permit_clearance_agent.py",
+            "description": "Closes permit: personnel count + tools accounted + area safe.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "safety_analytics_agent.py",
+            "description": "Aggregates permit-cycle KPIs (cycle time, on-time closure, near-miss).",
+            "role": "Focused agent in the 8-agent stack"
+          }
+        ],
+        "useCases": [
+          "Raise a permit-to-work request for substation SUB-12 transformer overhaul",
+          "Validate this risk assessment against the asset isolation plan",
+          "Show me all live permits across the field estate right now",
+          "Generate the monthly permit-cycle compliance report"
+        ]
+      }
+    },
+    {
+      "id": "payments_operations_excellence_stack",
+      "name": "Payments Operations Excellence Stack",
+      "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack",
+      "industry": "Financial Services",
+      "agents": [
+        {
+          "id": "payments_operations_excellence_stack_pre_release_fraud_scorer_agent",
+          "name": "Pre Release Fraud Scorer Agent",
+          "filename": "pre_release_fraud_scorer_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/pre_release_fraud_scorer_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/pre_release_fraud_scorer_agent.py",
+          "size": 3806,
+          "size_formatted": "3.7KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_correspondent_banking_monitor_agent",
+          "name": "Correspondent Banking Monitor Agent",
+          "filename": "correspondent_banking_monitor_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/correspondent_banking_monitor_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/correspondent_banking_monitor_agent.py",
+          "size": 3034,
+          "size_formatted": "3.0KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_payments_analytics_agent",
+          "name": "Payments Analytics Agent",
+          "filename": "payments_analytics_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payments_analytics_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payments_analytics_agent.py",
+          "size": 3285,
+          "size_formatted": "3.2KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_payment_status_tracker_agent",
+          "name": "Payment Status Tracker Agent",
+          "filename": "payment_status_tracker_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_status_tracker_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_status_tracker_agent.py",
+          "size": 2920,
+          "size_formatted": "2.9KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_payment_exception_repair_agent",
+          "name": "Payment Exception Repair Agent",
+          "filename": "payment_exception_repair_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_exception_repair_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_exception_repair_agent.py",
+          "size": 3787,
+          "size_formatted": "3.7KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_payment_ingestion_validator_agent",
+          "name": "Payment Ingestion Validator Agent",
+          "filename": "payment_ingestion_validator_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_ingestion_validator_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/payment_ingestion_validator_agent.py",
+          "size": 4468,
+          "size_formatted": "4.4KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_nostro_reconciliation_agent",
+          "name": "Nostro Reconciliation Agent",
+          "filename": "nostro_reconciliation_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/nostro_reconciliation_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/nostro_reconciliation_agent.py",
+          "size": 3328,
+          "size_formatted": "3.2KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        },
+        {
+          "id": "payments_operations_excellence_stack_sanctions_screening_agent",
+          "name": "Sanctions Screening Agent",
+          "filename": "sanctions_screening_agent.py",
+          "path": "agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/sanctions_screening_agent.py",
+          "url": "https://raw.githubusercontent.com/kody-w/AI-Agent-Templates-Pilot/main/agent_stacks/financial_services_stacks/payments_operations_excellence_stack/agents/sanctions_screening_agent.py",
+          "size": 3793,
+          "size_formatted": "3.7KB",
+          "type": "stack",
+          "stack_name": "Payments Operations Excellence Stack",
+          "stack_path": "financial_services_stacks/payments_operations_excellence_stack",
+          "industry": "Financial Services",
+          "icon": "\ud83e\udd16",
+          "description": "AI agent for task automation and workflow optimization",
+          "features": [
+            "AI-powered automation",
+            "Easy integration",
+            "Scalable architecture",
+            "Production ready"
+          ]
+        }
+      ],
+      "metadata": {
+        "id": "payments_operations_excellence_stack",
+        "name": "Payments Operations Excellence Agent Stack",
+        "version": "1.0.0.0",
+        "description": "Optimises end-to-end payments processing: reduces exceptions, improves STP rates, and ensures real-time compliance with scheme rules across CHAPS, Faster Payments, SEPA, and SWIFT rails.",
+        "category": "financial_services",
+        "industry_label": "Financial Services",
+        "complexity": "intermediate",
+        "features": [
+          "Payment ingestion + scheme-rule validation across CHAPS / FPS / SEPA / SWIFT",
+          "Sanctions screening against OFAC / HMT / EU lists",
+          "Exception handling with Copilot-assisted cause analysis + repair playbook",
+          "Nostro reconciliation and payment-position automation",
+          "Correspondent-banking limit and nostro-funding monitoring",
+          "Pre-release transaction-level fraud scoring",
+          "Customer-query resolution with real-time payment status",
+          "Payments analytics: volumes, STP rates, scheme-compliance KPIs"
+        ],
+        "benefits": [
+          "Higher straight-through-processing rate across payment rails",
+          "Real-time scheme compliance monitoring",
+          "Lower payment exception handling cost",
+          "Faster resolution of customer payment queries"
+        ],
+        "starters": [
+          "Show me today's STP rate by payment rail",
+          "Why did this CHAPS payment fail validation?",
+          "What is our nostro position reconciliation status?",
+          "Track payment reference 12345 and explain its current state"
+        ],
+        "technicalRequirements": {
+          "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+          ],
+          "dependencies": [
+            "Python 3.11+"
+          ],
+          "integrations": [
+            "Azure AI",
+            "Payment Platform",
+            "Sanctions Screening",
+            "Power Apps",
+            "Copilot Studio",
+            "Power Automate",
+            "ERP Finance Module",
+            "Power BI"
+          ]
+        },
+        "components": [
+          {
+            "name": "payment_ingestion_validator_agent.py",
+            "description": "Validates payment against scheme rules (CHAPS / FPS / SEPA / SWIFT).",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "sanctions_screening_agent.py",
+            "description": "Screens parties against OFAC / HMT / EU lists.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "payment_exception_repair_agent.py",
+            "description": "Diagnoses payment-failure root cause + repair playbook.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "nostro_reconciliation_agent.py",
+            "description": "Reconciles internal payment-position to nostro statement.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "correspondent_banking_monitor_agent.py",
+            "description": "Monitors correspondent-bank limits + nostro funding.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "pre_release_fraud_scorer_agent.py",
+            "description": "Scores transaction-level fraud risk pre-release.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "payment_status_tracker_agent.py",
+            "description": "Returns lifecycle state of a payment by reference.",
+            "role": "Focused agent in the 8-agent stack"
+          },
+          {
+            "name": "payments_analytics_agent.py",
+            "description": "STP rate, volume, scheme-compliance KPIs by rail.",
+            "role": "Focused agent in the 8-agent stack"
+          }
+        ],
+        "useCases": [
+          "Show me today's STP rate by payment rail",
+          "Why did this CHAPS payment fail validation?",
+          "What is our nostro position reconciliation status?",
+          "Track payment reference 12345 and explain its current state"
+        ]
+      }
+    }
+  ]
+}
