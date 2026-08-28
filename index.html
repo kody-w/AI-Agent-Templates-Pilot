@@ -2418,8 +2418,10 @@ graph TB
               return;
             }
             
-            // Fallback to API calls if manifest not available
-            const apiUrl = `https://api.github.com/repos/${agentStore.GITHUB_REPO}/contents/${agentStore.STACKS_PATH}?ref=${agentStore.BRANCH}`;
+            // Fallback if the manifest isn't available yet: read the CI-harvested
+            // contents-API-shaped snapshot from this Pages origin (Static Data
+            // Covenant) instead of calling api.github.com from the visitor browser.
+            const apiUrl = `data/api/contents/${agentStore.STACKS_PATH}/_listing.json`;
             const response = await fetch(apiUrl);
 
             if (response.status === 403) {
@@ -2508,8 +2510,9 @@ graph TB
           try {
             let metadata = null;
             
-            // Try to fetch metadata.json for the stack
-            const metadataUrl = `https://api.github.com/repos/${agentStore.GITHUB_REPO}/contents/${stackDir.path}/metadata.json?ref=${agentStore.BRANCH}`;
+            // Try to fetch metadata.json for the stack — CI-harvested
+            // contents-API-shaped snapshot (Static Data Covenant), not api.github.com.
+            const metadataUrl = `data/api/contents/${stackDir.path}/metadata.json`;
             try {
               const metadataResponse = await fetch(metadataUrl);
               if (metadataResponse.ok) {
@@ -2566,7 +2569,9 @@ graph TB
             } else {
               // Try to detect files in the files directory
               try {
-                const filesUrl = `https://api.github.com/repos/${agentStore.GITHUB_REPO}/contents/${stackDir.path}/files?ref=${agentStore.BRANCH}`;
+                // CI-harvested contents-API-shaped snapshot (Static Data Covenant),
+                // not api.github.com.
+                const filesUrl = `data/api/contents/${stackDir.path}/files/_listing.json`;
                 const filesResponse = await fetch(filesUrl);
                 if (filesResponse.ok) {
                   const files = await filesResponse.json();

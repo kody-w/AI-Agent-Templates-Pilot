@@ -25,10 +25,16 @@ jobs:
     
     - name: Generate manifest
       run: python scripts/generate_manifest.py
-    
+
+    # Static Data Covenant: keeps the contents-API-shaped snapshot that
+    # index.html's manifest-unavailable fallback reads (data/api/contents/)
+    # in sync with agent_stacks/, so that fallback never needs api.github.com.
+    - name: Harvest agent_stacks contents-API snapshot
+      run: python scripts/harvest_agent_stacks_api.py
+
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add manifest.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update manifest.json" && git push)
+        git add manifest.json data/api/contents
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update manifest.json and agent_stacks API snapshot" && git push)
