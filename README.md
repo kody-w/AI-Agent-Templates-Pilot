@@ -1,5 +1,9 @@
 # AI Agent Templates — Pilot Library
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/AI-Agent-Templates-Pilot.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/AI-Agent-Templates-Pilot.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 A focused subset of [`kody-w/AI-Agent-Templates`](https://github.com/kody-w/AI-Agent-Templates),
 shipped as a separate repository so it can be used as an independent test
 target for a small group of rapp agent stacks.
